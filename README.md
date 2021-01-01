@@ -5,7 +5,7 @@
 
 OS | URL
 ------------ | -------------
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /> | `[Click Here](https://appgallery.huawei.com/#/app/C102837879)`
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /> | <a href="https://appgallery.huawei.com/#/app/C102837879">Link</a>
 <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" /> | `In Review`
 
 ## 📝  Demo user 
